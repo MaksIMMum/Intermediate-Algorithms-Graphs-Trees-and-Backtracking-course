@@ -1,4 +1,3 @@
-
 class Solution:
 
     def isSubtree(self, root, sub_root):
